@@ -1,5 +1,5 @@
 <br />
-<h3 align="center">Node ls Tool</h3>
+<h3 align="center">Node LS Tool</h3>
 <br />
 
 ### About The Project
